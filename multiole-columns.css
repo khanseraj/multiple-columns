@@ -1,0 +1,8 @@
+.multiple-columns{
+    column-count: 3;
+    column-gap: 50px;
+    margin: 0px 10px;
+    column-rule-style: solid;
+    column-rule-width: 5px;
+    column-rule-color: antiquewhite;
+}
